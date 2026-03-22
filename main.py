@@ -2,6 +2,7 @@ from modules.functions import get_todos, write_todos
 import time
 
 now = time.strftime("%b - %d - %Y, %H:%M:%S ")
+print(f"The time is: {now}")
 todos = get_todos()
 
 while True:  # Or While True and create break at case

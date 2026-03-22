@@ -1,0 +1,12 @@
+/.venv/
+.idea
+bonus
+
+/files/e1.py
+/files/e2.py
+/files/e3.py
+/files/e4.py
+/files/output.zip
+/files/yesterdays_bonus13.py
+/files/questions_set.txt
+/files/questions.json
